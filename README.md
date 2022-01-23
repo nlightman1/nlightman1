@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Akuzu
 
-![](https://komarev.com/ghpvc/?username=VladKalachev)
+
 
 ## I'm a beginner FrontEnd Developer
 - 💪 I like to write code
