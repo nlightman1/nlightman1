@@ -24,5 +24,5 @@
 <br />
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nlightman1)]
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nlightman1&layout=compact)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nlightman1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nlightman1&layout=compact)
